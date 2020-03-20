@@ -1,0 +1,13 @@
+5.4.1
+1. myVals[0]
+2. myVals[i] < 0
+3. cntOdd++
+___________________________________________________________
+
+Assessment Logic Check:
+1a. We used long for a higher maximum and minimum input of numbers so the user can input a larger number
+1b. Arrays start at zero, but [max + 2] makes it start at 1.
+2. while 1 == 1;
+3a. So the min value is always smaller than the max value
+3b. So the max value is always bigger than the min value.
+

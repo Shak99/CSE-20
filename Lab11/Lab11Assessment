@@ -1,0 +1,18 @@
+5.2.4
+1. int [] myVals = new int [10];
+2. myVals[8] = x;
+3. myVals[2] = 555;
+4. myVals[1] = 777;
+5. int[] myVals = {10, 10, 10, 10};
+_________________________________________________________
+Assessment Logic Check:
+
+1a. Whatever the max number entered is plus one.
+1b. Because an array always starts with an index of zero, so you have to add 1 so it exactly knows how many numbers you want inputed.
+1c. No, because it's going to have one less numbered entered than expected.
+
+2a. We initialized the variable before starting the new loop so the number values won't combine.
+2b. Yes, you can use any letter or word to replace i.
+
+3a. The value of i plus 1 less than or equal to the max value. If it is true, it will go through the loop.
+3b. The i will stay its value as it is less than or equal to the max, go through the loop, and at the end add a 1 to it.
