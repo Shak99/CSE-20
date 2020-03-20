@@ -1,0 +1,45 @@
+2.2.4 Answers:
+1. 8	
+2. 6
+3. flyCount = flyCount - 1;
+
+2.4.3 Answers:
+1. housesCity = housesBlock * 10;
+2. x = x1 + x2 + 2;
+3. numBalls = numBalls + 1;
+4. numEntries = (userVal + 1) * 2;
+
+2.4.4 Answers:
+1. 4
+2. 0
+3. 0
+4. 0
+5. 1
+6. 8
+7. 6
+8. Error
+
+2.9.2 Answers:
+1. 15
+2. 136
+3. 00010001
+4. 00110011
+
+2.13.1 Answers:
+1. true
+2. true
+3. false
+4. false
+________________________________________________________
+Level of Understanding
+
+1. char charA = 'Y';
+   System.out.print("OUTPUT is " + (char) (charA + 1);
+2. All numbers work as long as they don't exceed 2 billion.
+3. No there are no output differences between floats and doubles.
+4. Yes, for all operations except multiplication.
+
+
+
+
+
