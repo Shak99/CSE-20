@@ -1,0 +1,70 @@
+1.4.1
+Assuming scnr already exists, which statement reads a user-entered number into variable numCars? 
+Answer:numCars = scnr.nextInt();
+
+1.4.2
+Type a statement that reads a user-entered integer into variable numUsers. Assume scnr already exists. 
+Answer:numUsers = scnr.nextInt();
+
+1.5.2
+1. // Get user input
+-VALID
+
+2. /* Get user input */
+-VALID 
+
+3./* Determine width and height,
+   calculate volume, 
+   and return volume squared.
+*/
+
+-VALID
+
+4.// Print "Hello" to the screen //
+
+-VALID
+
+5.// Print "Hello"
+   Then print "Goodbye"
+   And finally return.
+//
+
+-INVALID 
+
+6./*
+ * Author: Michelangelo
+ * Date: 2014
+ * Address: 111 Main St, Pacific Ocean
+ */
+
+-VALID
+
+7.// numKids = 2;  // Typical number
+-VALID
+
+8./* 
+   numKids = 2;  // Typical number
+   numCars = 5; 
+*/
+-VALID
+
+9./* 
+   numKids = 2;  /* Typical number */
+   numCars = 5;
+*/
+INVALID
+
+___________________________________________________________________
+
+Reflection:
+
+1. How many types of errors were there? 
+-There were compliation errors and logical errors, such as misplellings.
+
+2. How do you know when you have found every error (bugs)? 
+-The red mark on the side of the line disappears.
+
+3. Is naming convention important to avoid errors? 
+-Yes. it's important because it makes the code understandable and allows the code to remember easier to use.
+
+*I collaborated with Alex Zendejas

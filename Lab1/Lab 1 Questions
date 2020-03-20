@@ -1,0 +1,26 @@
+Section 1.3.1
+1. Which statement prints: Welcome! 
+Answer: System.out.print("Welcome!");
+
+2. Which statement prints Hey followed by a new line?
+Answer: System.out.println("Hey");
+
+Section 1.3.2
+1.Type a statement that prints: Hello 
+Answer: System.out.print("Hello");
+
+2.Type a statement that prints Hello and then starts a new output line.
+Answer:System.out.println("Hello");
+
+Section 1.3.5
+Instructions: Indicate the actual output of each statement. Assume userAge is 22. 
+
+1.System.out.print("You're " + userAge + " years.");
+Answer:You're 22 years.
+
+2.System.out.print(userAge + "years is good.");
+Answer: 22years is good.
+
+
+
+Collaborations: Linda and Jose

@@ -1,0 +1,12 @@
+Level of Understanding
+
+1.Nothing, because it is written as a note with the two forward slashes.
+
+2.Yes there is a difference. They would print the same text, but the second line would start a new one, because it has ln at the end of System.out.print
+
+3.A would print out the text in one line, while B would print out the text out in two separate lines
+_______________________________________________________________________
+
+Interview Information:
+
+I talked with Jose and Alex about where they are from and what they plan on doing with their Computer Science Degree in the future.
