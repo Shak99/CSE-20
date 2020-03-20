@@ -1,0 +1,40 @@
+4.5.2
+1. i++
+2. numCars = 1;
+3. i >= 0;
+4. i = i + 2
+5. i = -10; i <= 10; i++
+
+
+4.5.3
+1. while
+2. while
+3. for
+
+
+4.5.4
+1. false
+2. true
+
+
+4.6.2
+1. 6
+2. 24
+___________________________________________________________________________________
+
+Assessment Logic Check:
+
+1a. 10
+1b. 5
+1c. 4
+1d. 3
+1e. 10
+1f. none
+1g. 2
+1h. infinte
+
+2. The while(true) will continue to print out the results until the limits are met.
+
+3. The for loop will iterate as many times as the max or min value that we input. The while loop will iterate for an infinite number of times until it hits the boundary.
+
+

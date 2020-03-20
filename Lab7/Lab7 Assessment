@@ -1,0 +1,31 @@
+Activity 3.3.4
+1. 10..19
+2. 20..29
+3. 30+
+4. 0..100
+
+
+Activity 3.3.5
+1. userNum < 200
+2. else if (userNum > 0)
+3. else if (userNum > 105)
+4. 10
+5. none
+
+
+Activity 3.4.1
+1. true
+2. false
+3. true
+4. false
+5. true
+6. true
+7. true
+8. true
+______________________________________________________________
+
+Assesment (Logic Check)
+
+For the values 1 and 20 they fall within the range of the code so they are added to 65 to get a character letter. Any and all numbers 26 and greater will get the output "Outside of accpetable range" because it is greater than 25, which is why the greater positive numbers will not get an letter output. This is the same thing for all negative numbers equal to and less than -1. Zero is in the range of the code, so inputing -0 is the same as positive zero, which is 'A'.
+
+

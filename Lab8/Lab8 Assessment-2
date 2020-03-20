@@ -1,0 +1,32 @@
+Assessment Logic Check
+
+1.	a. Average = 3 and Positive average = 3
+	b. Average = 5 and Positive average = 12
+	c. Average = 0 and Positive average = 5
+	d. Average = 0 and Positive average = 7
+	e. Average = -3 and Positive average = 0
+
+2. Final value + 9
+
+3. //Added an else if for the i == 9
+
+System.out.println("Prefix and Postfix operator Code");
+		int i = 10;
+		i--;	
+		System.out.println(i);		
+		--i;			  
+		System.out.println(i);		
+		System.out.println(++i);	
+		System.out.println(i++);	
+		System.out.println(i);		
+		System.out.println(--i);	
+		System.out.println(i--);	
+		System.out.println(i);		
+
+		if (i++ == 8)
+			System.out.println("Eight");
+		
+		else if (++i == 9)
+			System.out.println("Nine");
+		
+		System.out.println("Final value " + i);
